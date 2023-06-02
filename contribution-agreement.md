@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document clarifies the terms under which you, the person listed below, may make Contributions — which may include without limitation, software, bug fixes, configuration changes, documentation, or any other materials — to the EcoTracker project.
+This document clarifies the terms under which you, the person listed below, may make Contributions — which may include without limitation, software, bug fixes, configuration changes, documentation, or any other materials — to the My Center Manager project.
 
 ## Definitions
 
@@ -12,7 +12,7 @@ This document clarifies the terms under which you, the person listed below, may 
 
 "Submit" means any form of electronic, verbal, or written communication sent to the Project, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Project for the purpose of discussing and improving the project.
 
-"Project" means the EcoTracker project hosted on GitHub at https://github.com/ecotracker and owned by Alain Iglesias **aka** aiherrera.
+"Project" means the My Center Manager project hosted on GitHub at https://github.com/My-Center-Manager and owned by Alain Iglesias **aka** aiherrera.
 
 ## Agreement
 
@@ -32,4 +32,4 @@ By Submitting a Contribution to the Project:
 
 3. You confirm that you are legally entitled to grant the above license.
 
-Thank you for contributing to the EcoTracker project!
+Thank you for contributing to the My Center Manager project!
