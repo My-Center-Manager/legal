@@ -1,15 +1,15 @@
-# EcoTracker Legal Repository
+# My Center Manager Legal Repository
 
-Welcome to the EcoTracker Legal Repository. This repository holds all the necessary legal documents for the EcoTracker project.
+Welcome to the My Center Manager Legal Repository. This repository holds all the necessary legal documents for the EcoTracker project.
 
 ## Contents
 
-1. [License](LICENSE) - The license under which the EcoTracker project is released.
-2. [Contribution Agreement](contribution-agreement.md) - The agreement that all contributors to the EcoTracker project must agree to.
+1. [License](LICENSE) - The license under which the My Center Manager project is released.
+2. [Contribution Agreement](contribution-agreement.md) - The agreement that all contributors to the My Center Manager project must agree to.
 
 ## Contributing
 
-If you would like to contribute to the EcoTracker project, please read and understand our [Contribution Agreement](contribution-agreement.md) before making your contribution.
+If you would like to contribute to the My Center Manager project, please read and understand our [Contribution Agreement](contribution-agreement.md) before making your contribution.
 
 ## Contact
 
@@ -19,4 +19,4 @@ If you have any questions or concerns about any of the documents in this reposit
 
 The legal documents in this repository are provided for information purposes only and should not be used as a replacement for legal advice. You should consult with your own legal counsel before using these documents.
 
-Thank you for your interest in the EcoTracker project!
+Thank you for your interest in the My Center Manager project!
